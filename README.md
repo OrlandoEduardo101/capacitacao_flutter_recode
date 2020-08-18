@@ -9,4 +9,5 @@ Capacitação de Flutter para os membros da Recode Jr, consumindo api da pokedex
 - Slides utilizados incluso nesse repositório como PDF, na pasta "Slides".
 
 Video 1: https://drive.google.com/file/d/1t9RTLtPOYmfEBN-Pnux-9oV1bv50imwR/view?usp=sharing
+
 Video 2: https://drive.google.com/file/d/12TdDhnL3FJxDFpkZLKWPRY07JmN3sz81/view?usp=sharing
